@@ -1791,62 +1791,21 @@ footer p{
         font-size: 11px;
     }
 }
-
-@media(max-width:450px) {
-    .content {
-        left: 16px;
-        top: 273px;
-    }
-
+@media(max-width:412px){
+    .page1 {
+        width: 115%;
+        height: 70vh;
+    }   
     .id {
-        left: 6px;
-        bottom: 20px;
+        left: 4px;
+        bottom: 289px;
     }
-
-    .btn {
-        padding: 0px 0px;
-        height: 27px;
-        width: 70px;
-        font-size: 13px;
-    }
-
-    .btn2 {
-        padding: 0px 0px;
-        height: 27px;
-        width: 70px;
-        font-size: 13px;
-    }
-
-    .id p {
-        padding-top: 17px;
-        margin: 1px;
-        font-size: 12px;
-    }
-
-    .ad {
-        margin-left: 55px;
-        margin-top: 20px;
-        margin-bottom: 15px;
-    }
-    .container3 i {
-        font-size: 15px;
-    }
-    .foot14 h5 {
-        left: 82px;
-        padding-top: 14px;
-        font-size: 10px;
-    }
-    .container3 h5 {
-        font-size: 12px;
-    }
-    .container3 {
-        display: block;
-        padding-left: 34px;
+    h2 {
+        font-size: 22px;
     }
     .container h4 {
-        font-size: 15px;
+        font-size: 13px;
     }
-
 }
 
 @media(max-width:400px) {
