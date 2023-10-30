@@ -1806,6 +1806,13 @@ footer p{
     .container h4 {
         font-size: 13px;
     }
+    .container2 h4 {
+        font-size: 12px;
+    }
+    .container3 {
+        display: block;
+        padding-left: 40px;
+    }
 }
 
 @media(max-width:400px) {
