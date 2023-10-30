@@ -1825,8 +1825,8 @@ footer p{
     }
 
     .content {
-        left: 13px;
-        top: 301px;
+        left: 10px;
+        top: 166px;
     }
 
     h1 img {
@@ -1835,8 +1835,8 @@ footer p{
     }
 
     .id {
-        left: 7px;
-        bottom: 25px;
+        left: 2px;
+        bottom: 174px;
     }
 
     .btn {
@@ -1860,7 +1860,9 @@ footer p{
         margin: 2px;
         font-size: 10px;
     }
-
+    h2 {
+    font-size: 20px;
+}
     .images img {
         height: auto;
         width: 90px;
@@ -1886,7 +1888,10 @@ footer p{
         font-size: 9px;
     }
     .container h4 {
-        font-size: 14px;
+        font-size: 11px;
+    }
+    .container p {
+        font-size: 9px;
     }
 }
 
@@ -1907,7 +1912,7 @@ footer p{
     }
     .id {
         left: 4px;
-        bottom: 32px;
+        bottom: 177px;
     }
     .container3{
         display: block;
@@ -1942,6 +1947,9 @@ footer p{
     }
     .container3 i {
         font-size: 12px;
+    }
+    h2 {
+        font-size: 18px;
     }
 
 }
